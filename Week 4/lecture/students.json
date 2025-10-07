@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ganoes Paran",
+        "age": 22,
+        "grades": [85, 90, 78],
+        "active": true
+    },
+    {
+        "name": "Tavore Paran",
+        "age": 24,
+        "grades": [92, 88, 95],
+        "active": true
+    },
+    {
+        "name": "Fiddler",
+        "age": 23,
+        "grades": [76, 81, 79],
+        "active": true
+    },
+    {
+        "name": "Quick Ben",
+        "age": 25,
+        "grades": [95, 99, 97],
+        "active": false
+    },
+    {
+        "name": "Anomander Rake",
+        "age": 1000,
+        "grades": [100, 100, 100],
+        "active": false
+    }
+]
