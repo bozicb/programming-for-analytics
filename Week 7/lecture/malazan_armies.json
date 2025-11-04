@@ -1,0 +1,42 @@
+[
+    {
+        "Army":"Bridgeburners",
+        "Soldiers":1200,
+        "Mages":8,
+        "Campaigns_Fought":15,
+        "Survival_Rate_%":5,
+        "Average_Pay_Gold":1.2
+    },
+    {
+        "Army":"Claw",
+        "Soldiers":300,
+        "Mages":25,
+        "Campaigns_Fought":50,
+        "Survival_Rate_%":40,
+        "Average_Pay_Gold":3.5
+    },
+    {
+        "Army":"Red Blades",
+        "Soldiers":500,
+        "Mages":4,
+        "Campaigns_Fought":10,
+        "Survival_Rate_%":35,
+        "Average_Pay_Gold":1.0
+    },
+    {
+        "Army":"Malazan Marines",
+        "Soldiers":800,
+        "Mages":10,
+        "Campaigns_Fought":20,
+        "Survival_Rate_%":60,
+        "Average_Pay_Gold":1.8
+    },
+    {
+        "Army":"T'lan Imass",
+        "Soldiers":20000,
+        "Mages":150,
+        "Campaigns_Fought":1000,
+        "Survival_Rate_%":100,
+        "Average_Pay_Gold":0.0
+    }
+]
